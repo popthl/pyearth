@@ -1,5 +1,9 @@
+https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-map/
 earth.jpg
+https://svs.gsfc.nasa.gov/3895
 starmap_4k.jpg
 constellation_figures.jpg
+
+由于星空图要从天球内部看，所以原图要左右翻转一下，再左右交换（平移180度）
 starmap_4k_flipped.jpg
 constellation_figures_flipped.jpg
